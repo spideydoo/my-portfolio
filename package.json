@@ -4,7 +4,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://spideydoo.github.io/my-portfolio",
+  "homepage": "https://samwebdev-code.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
